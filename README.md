@@ -1,5 +1,4 @@
-Smart Energy Management System
-This repository contains the project files for the Smart Energy Management System, integrating SQL and NoSQL databases for efficient energy data management.
+## 📄 Project Report
 
-📄 Project Report:
-The full project report is available in the " docs " folder.
+The full project report is available in the `docs` folder.  
+📌 **[Download the Report](docs/Batuhan_ÖZTÜRK_GH1031500_ADVANCED_DATABASES_PROJECT_REPORT.pdf)** 
